@@ -1,0 +1,7 @@
+// This is your class file everything in the main method is placed inside.
+public class HelloWorld {
+  public static void main(String [] args) {
+    // The statement that prints out anything between the quotation marks.
+    System.out.println("Hello, World");
+  }
+}
